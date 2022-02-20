@@ -1,0 +1,68 @@
+html,body{
+	margin-top:40px;
+	color:#fff;
+	font-size:11px;
+}
+.top-bottom-margin{
+	width:20%;
+	margin-top: 18px;
+	Text-align:right;
+	float:left;
+}
+.text-box{
+	margin-top: 10px;
+	Text-align:left;
+	Width:78%;
+	margin-left: 2px;
+	float:right
+}
+.text-box1{
+	margin-top: 10px;
+	Text-align:left;
+	Width:26%;
+	
+	float:right
+}
+.button-box{
+	margin-top: 10px;
+	Text-align:center;
+	Width:30%;
+	margin-left: 90px;
+	float:left
+}
+.fname{
+	width: 80%;
+}
+.selection-gender{
+	width: 30%;
+}
+.selection-date{
+	width: 100%;
+}
+.div-regForm,.registered{	
+	border:3px solid #eeeeee;
+	padding:15px;
+	background-color: lightcyan; /* For browsers that do not support gradients */
+	background-image: linear-gradient(white,lightcyan, lightblue);
+	color:#203360;
+	margin:30px auto 40px auto;
+	width:400px;
+	height: 350px;
+
+}
+
+.form-title{
+	font-size:30px;
+	font-weight:bold;
+}
+.form-sub-title{
+    font-size: 20px;
+	font-weight:normal;
+}
+.greenButton{
+	width:50%;
+	color:white;
+	background-color:#589d39;
+	border:1px solid #006600;
+	margin-top: 20px;
+}

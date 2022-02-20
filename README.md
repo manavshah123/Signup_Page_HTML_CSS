@@ -3,7 +3,7 @@
 
 <h1 align="center"> <center><img src="https://github.com/manavshah123/Signup_Page_HTML_CSS/blob/main/signup_rn.gif"  width="400"></h1>
 
-##Technology used
+## Technology used
   1. HTML
   2. CSS
   
